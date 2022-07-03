@@ -1,6 +1,6 @@
-### Hello there  👋
+### Hello there  :mage_man:
 
-- 🍎 Currently working as a full time IOS Developer
+- :technologist: Currently working as a full time IOS Developer
 
 <div align="center">
 <a href="https://github.com/ivanportales">
