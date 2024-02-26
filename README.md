@@ -1,5 +1,6 @@
 ### Hello there  :mage_man:
-
+- 🍎 IOS Native Developer
+- 📱 Flutter Hybrid Mobile Developer
 - :technologist: Currently working as a full time IOS Developer at XP Investimentos
 
 <div align="center">
